@@ -1,5 +1,6 @@
 # A blocklist that sinkholes the domains which my sister should not be going on due to problematic behaviour.
 
 0.0.0.0 www.youtube.com
+0.0.0.0 music.YouTube.com
 0.0.0.0 tiktok.com
 0.0.0.0 instagram.com
